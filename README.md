@@ -1,99 +1,180 @@
-# 👋 Hi there, I'm Jawad Amir!
+<!--
+  Jawad Amir — Full Stack Developer
+  GitHub: https://github.com/JawadAmir000
+  Focus: Full stack web development, AI-powered applications, agents & automation
+-->
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JawadAmir000&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/JawadAmir000?style=flat-square&color=blueviolet&label=Followers" alt="Followers" />
+<div align="center">
+
+  <img alt="Jawad Amir — Full Stack Developer" width="180" src="https://github.com/JawadAmir000.png" style="border-radius: 50%;" />
+  <h1><a href="https://github.com/JawadAmir000"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Jawad+Amir" alt="Jawad Amir" /></a></h1>
+  <br /><br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+AI+Enthusiast;Building+robust+and+scalable+web+apps;4%2B+years+of+hands-on+experience;TypeScript+%C2%B7+React+%C2%B7+.NET+%C2%B7+Python;Currently+building+AI-powered+applications" alt="Jawad Amir — Full Stack Developer" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JawadAmir000&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Jawad Amir GitHub profile views" />
+  <img src="https://img.shields.io/github/followers/JawadAmir000?label=Followers&style=for-the-badge&color=blue" alt="Jawad Amir GitHub followers" />
+  <img src="https://img.shields.io/github/stars/JawadAmir000?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Jawad Amir total GitHub stars" />
 </p>
 
-I'm a passionate **Full Stack Developer** with 4+ years of experience building scalable and performant web applications that solve real-world problems.
+---
+
+## About Me
+
+Full Stack Developer with 4+ years of hands-on experience building robust and scalable web applications that solve real-world problems.
+
+I spend most of my time writing code across the stack — TypeScript, React, Angular, and Next.js on the frontend; .NET, Node.js, and Python on the backend. Lately my focus has been on **AI-powered applications, agents, and automation**.
 
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **AI Agents & Automation**
-- 💬 Ask me about **React, Node.js, Python, Cloud Architecture**
+- 💬 Ask me about **React, .NET, Node.js, Python, Cloud Architecture**
 - ⚡ Fun fact: I automate everything I can!
 
 ---
 
-## 🛠️ When I code, I rely on
+## Featured Project — Smart AI To-Do App
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<div align="center">
 
----
+[![Samrt-Ai-To-Do-App](https://img.shields.io/github/stars/JawadAmir000/Samrt-Ai-To-Do-App?style=for-the-badge&label=Stars&color=FFD700)](https://github.com/JawadAmir000/Samrt-Ai-To-Do-App)
+[![forks](https://img.shields.io/github/forks/JawadAmir000/Samrt-Ai-To-Do-App?style=for-the-badge&label=Forks&color=blue)](https://github.com/JawadAmir000/Samrt-Ai-To-Do-App/fork)
+[![last commit](https://img.shields.io/github/last-commit/JawadAmir000/Samrt-Ai-To-Do-App?style=for-the-badge&label=Last%20Commit&color=green)](https://github.com/JawadAmir000/Samrt-Ai-To-Do-App/commits)
 
-## 🐍 My Contributions
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JawadAmir000/JawadAmir000/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+**[Smart AI To-Do App](https://github.com/JawadAmir000/Samrt-Ai-To-Do-App)** is an AI-powered task management application that brings intelligent automation to your daily workflow — built with Python and modern AI tooling.
 
----
-
-## 📊 My GitHub contributions summary
-
-<p align="center">
-  <a href="https://github.com/JawadAmir000">
-    <img src="https://streak-stats.demolab.com/?user=JawadAmir000&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<div align="center">
+  <a href="https://github.com/JawadAmir000/Samrt-Ai-To-Do-App">
+    <img src="https://img.shields.io/badge/Explore%20the%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Smart AI To-Do App on GitHub" />
   </a>
+</div>
+
+---
+
+## Other Projects
+
+<div align="center">
+  <a href="https://github.com/JawadAmir000/-FastAPI-Template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=-FastAPI-Template&theme=tokyonight&hide_border=true" alt="FastAPI Template — production-ready FastAPI starter" />
+  </a>
+  <a href="https://github.com/JawadAmir000/jawad-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=jawad-portfolio&theme=tokyonight&hide_border=true" alt="Jawad's portfolio website built with TypeScript" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JawadAmir000/Slack-integration-for-a-smart-AI-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=Slack-integration-for-a-smart-AI-system&theme=tokyonight&hide_border=true" alt="Slack integration for a smart AI system" />
+  </a>
+  <a href="https://github.com/JawadAmir000/International-CV-Maker-with-AI-search">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=International-CV-Maker-with-AI-search&theme=tokyonight&hide_border=true" alt="International CV Maker with AI search" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JawadAmir000/Reactivities">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=Reactivities&theme=tokyonight&hide_border=true" alt="Reactivities — social activities app built with .NET and React" />
+  </a>
+  <a href="https://github.com/JawadAmir000/Skinet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAmir000&repo=Skinet&theme=tokyonight&hide_border=true" alt="Skinet — e-commerce app built with .NET and Angular" />
+  </a>
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JawadAmir000&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Jawad Amir GitHub trophies — achievements for stars, commits, PRs, issues, followers, and repositories" />
+</div>
+
+---
+
+## Tech Stack
+
+### AI and Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming language" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI — modern Python web framework" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI — AI models and APIs" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — AI coding assistant by Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain — LLM application framework" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React — JavaScript UI library" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js — React framework" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular — TypeScript web framework" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS — utility-first CSS framework" />
+</p>
+
+### Backend and Data
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET — cross-platform framework" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# programming language" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js — JavaScript runtime" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS — Node.js framework" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL — API query language" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL — relational database" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB — NoSQL database" />
+  <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis — in-memory data store" />
+</p>
+
+### DevOps and Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker — containerization platform" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services — cloud computing" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions — CI/CD automation" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel — frontend deployment platform" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git — version control" />
 </p>
 
 ---
 
-## 📈 Jawad's GitHub Stats
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadAmir000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JawadAmir000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Jawad Amir GitHub stats — stars, commits, PRs, and issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAmir000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jawad Amir most used programming languages on GitHub" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAmir000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JawadAmir000&theme=tokyonight&hide_border=true&card_width=500" alt="Jawad Amir GitHub streak — current and longest contribution streak" />
+  </a>
+</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JawadAmir000&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JawadAmir000&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff" alt="Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JawadAmir000&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JawadAmir000&theme=minimal&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JawadAmir000&theme=tokyo-night&hide_border=true&area=true" alt="Jawad Amir GitHub contribution activity graph" width="100%" />
+</picture>
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/jawad-amir"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/jawadamir"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:jawad@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <!-- TODO: update the LinkedIn URL below with your real LinkedIn profile -->
+  <a href="https://www.linkedin.com/in/jawadamir000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jawad Amir on LinkedIn" />
+  </a>
+  <a href="mailto:xawadamir0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jawad Amir" />
+  </a>
+  <a href="https://github.com/JawadAmir000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Jawad Amir on GitHub" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <i>If you find my work helpful, consider giving it a ⭐!</i>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JawadAmir000/JawadAmir000/output/github-contribution-grid-snake-dark.svg" alt="Jawad Amir GitHub contribution snake animation" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
