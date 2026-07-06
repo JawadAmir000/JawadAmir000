@@ -1,15 +1,15 @@
 <!--
-  Jawad Amir — Full Stack Developer
+  Jawad Amir — AI Engineer · Agentic Systems & LLM Platforms
   GitHub: https://github.com/JawadAmir000
-  Focus: Full stack web development, AI-powered applications, agents & automation
+  Focus: Agentic AI, multi-agent orchestration, MCP, RAG, LLM cost optimization, production full-stack
 -->
 
 <div align="center">
 
-  <img alt="Jawad Amir — Full Stack Developer" width="180" src="https://github.com/JawadAmir000.png" style="border-radius: 50%;" />
+  <img alt="Jawad Amir — AI Engineer" width="180" src="https://github.com/JawadAmir000.png" style="border-radius: 50%;" />
   <h1><a href="https://github.com/JawadAmir000"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Jawad+Amir" alt="Jawad Amir" /></a></h1>
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%C2%B7+AI+Enthusiast;Building+robust+and+scalable+web+apps;4%2B+years+of+hands-on+experience;TypeScript+%C2%B7+React+%C2%B7+.NET+%C2%B7+Python;Currently+building+AI-powered+applications" alt="Jawad Amir — Full Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer+%C2%B7+Agentic+Systems+%26+LLM+Platforms;6%2B+years+of+production+engineering+experience;Multi-Agent+Orchestration+%C2%B7+MCP+%C2%B7+RAG;Cut+LLM+API+costs+60-70%25+in+production;Python+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Azure+%C2%B7+AWS" alt="Jawad Amir — AI Engineer" />
 </div>
 
 <p align="center">
@@ -22,14 +22,21 @@
 
 ## About Me
 
-Full Stack Developer with 4+ years of hands-on experience building robust and scalable web applications that solve real-world problems.
+**AI Engineer with 6+ years of production engineering experience**, specialized in **agentic AI** — multi-agent orchestration, MCP, RAG, and LLM cost optimization. I've shipped LLM platforms in analytics, healthcare, and fintech that cut AI API costs **60–70%**, accelerated clinical research **40%**, and generated **$2M+** in new revenue.
 
-I spend most of my time writing code across the stack — TypeScript, React, Angular, and Next.js on the frontend; .NET, Node.js, and Python on the backend. Lately my focus has been on **AI-powered applications, agents, and automation**.
+I'm equally at home designing agent architectures and hardening them for production — full-stack across **Python, TypeScript, .NET, Azure, and AWS**.
 
-- 🔭 Currently working on **AI-powered applications**
-- 🌱 Learning **AI Agents & Automation**
-- 💬 Ask me about **React, .NET, Node.js, Python, Cloud Architecture**
+- 🔭 Building a production **multi-agent AI analytics platform** on Anthropic Claude + Vercel AI SDK
+- 🧠 Deep in **multi-agent orchestration, MCP, agentic RAG, and LLM cost optimization**
+- 💬 Ask me about **AI Agents, RAG, .NET microservices, Python, and Cloud Architecture**
 - ⚡ Fun fact: I automate everything I can!
+
+### 🚀 What I work on
+
+- **Agentic systems** — multi-agent orchestration, Claude Agent SDK, MCP for runtime tool loading, human-in-the-loop approval layers
+- **RAG at scale** — pgvector / Pinecone / Neo4j hybrid & graph retrieval over millions of documents
+- **LLM cost & reliability** — schema compression, conversation compaction, prompt caching (60–70% cost cuts)
+- **Production backends** — .NET 8 (Clean Architecture, CQRS, DDD), Python/Django/FastAPI, event-driven microservices
 
 ---
 
@@ -94,13 +101,18 @@ I spend most of my time writing code across the stack — TypeScript, React, Ang
 
 ## Tech Stack
 
-### AI and Automation
+### AI and Agentic Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python programming language" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI — modern Python web framework" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI — AI models and APIs" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code — AI coding assistant by Anthropic" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude — LLM and Claude Agent SDK" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT-4 and Azure OpenAI" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval-Augmented Generation" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain — LLM application framework" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph — multi-agent orchestration" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone — vector database" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector — vector search in PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j — graph database for retrieval" />
 </p>
 
 ### Frontend
@@ -159,9 +171,11 @@ I spend most of my time writing code across the stack — TypeScript, React, Ang
 ## Connect
 
 <div align="center">
-  <!-- TODO: update the LinkedIn URL below with your real LinkedIn profile -->
-  <a href="https://www.linkedin.com/in/jawadamir000/" target="_blank">
+  <a href="https://www.linkedin.com/in/jawad-amir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jawad Amir on LinkedIn" />
+  </a>
+  <a href="https://jawadamir.space" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jawad Amir portfolio website" />
   </a>
   <a href="mailto:xawadamir0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jawad Amir" />
