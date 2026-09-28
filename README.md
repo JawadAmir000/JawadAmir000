@@ -22,7 +22,7 @@
 
 ## About Me
 
-**AI Engineer with 6+ years of production engineering experience**, specialized in **agentic AI** — multi-agent orchestration, MCP, RAG, and LLM cost optimization. I've shipped LLM platforms in analytics, healthcare, and fintech that cut AI API costs **60–70%**, accelerated clinical research **40%**, and generated **$2M+** in new revenue.
+**Forward deployed AI Engineer with 7+ years of production engineering experience**, specialized in **agentic AI** — multi-agent orchestration, MCP, RAG, and LLM cost optimization. I've shipped LLM platforms in analytics, healthcare, and fintech that cut AI API costs **60–70%**, accelerated clinical research **40%**, and generated **$2M+** in new revenue.
 
 I'm equally at home designing agent architectures and hardening them for production — full-stack across **Python, TypeScript, .NET, Azure, and AWS**.
 
